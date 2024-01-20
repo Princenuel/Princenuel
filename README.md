@@ -11,7 +11,7 @@
 
 - [Certified in Cybersecurity]
 
-- [AWS Cloud Practitioner]
+- [AWS Cloud Practitioner](https://imgur.com/XVIoqRO)
 
 
 <h2>📺 Popular YouTube Videos</h2>
