@@ -4,6 +4,9 @@
 
 - <b>Active Directory Home Lab </b>
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  
+ - <b>Analyse Data Packet Using Wireshark</b>
+  - [Analyse Data Packet Using Wireshark](https://github.com/Princenuel/Analyze-data-packet-using-wireshark)
  
 
 
@@ -14,9 +17,7 @@
 - [AWS Cloud Practitioner](https://imgur.com/XVIoqRO)
 
 
-<h2>📺 Popular YouTube Videos</h2>
 
-- [Active Directory Homelab](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 
 <h2> 🤳 Connect with me:</h2>
