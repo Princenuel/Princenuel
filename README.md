@@ -13,7 +13,7 @@
 
 <h2>👨‍💻 Certifications:</h2>
 
-- [Certified in Cybersecurity]
+- [Certified in Cybersecurity](https://i.imgur.com/nHz0Bcy.png)
 
 - [AWS Cloud Practitioner](https://imgur.com/XVIoqRO)
 
