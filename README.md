@@ -10,6 +10,11 @@
  
 - <b>Capture and analyse Data Packet Using Tcpdump</b>
   - [Capture and analyse Data Packet Using Tcpdump](https://github.com/Princenuel/Capture-and-Analyse-Data-packets-using-Tcpdump)
+ 
+- <b> Configure OSPF on Router 1 and Router 2 for PC1 and PC2 to ping each other successfully</b>
+  - [Configure OSPF on Router](https://github.com/Princenuel/TASK-Configure-OSPF-on-R1-and-R2-so-that-PC1-and-PC2-could-Ping-each-other-successfully)
+ 
+
 
 <h2>👨‍💻 Certifications:</h2>
 
