@@ -1,4 +1,4 @@
-<h1>Hi, I'm Emmanuel! <br/> <a href="https://www.linkedin.com/in/emmanuel-chukwuemeka0416/">Cybersecurity Analyst</a>
+<h1>Hi, I'm Emmanuel! <br/> <a href="https://www.linkedin.com/in/emmanuel-chukwuemeka0416/">Cloud Security Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
