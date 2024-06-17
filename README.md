@@ -1,6 +1,9 @@
 <h1>Hi, I'm Emmanuel! <br/> <a href="https://www.linkedin.com/in/emmanuel-chukwuemeka0416/">Cloud Security Professional</a>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Projects completed:</h2>
+
+-  <b>Migrating On-Premise Fileshare to Microsoft Sharepoint using a MacBook </b>
+  - [Migrating On-Premise Fileshare to Microsoft Sharepoint using a MacBook](https://github.com/Princenuel/Migrating-on-premise-fileshares-to-Sharepoint-using-a-Macbook)
 
 - <b>Active Directory Home Lab </b>
   - [Active Directory Home Lab](https://github.com/Princenuel/ActiveDirectoryLab)
