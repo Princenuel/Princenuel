@@ -14,11 +14,17 @@ I work across IT administration, Microsoft cloud services, and cybersecurity. My
 - [Certified in Cybersecurity](https://i.imgur.com/nHz0Bcy.png)
 - [AWS Cloud Practitioner](https://imgur.com/XVIoqRO)
 
-<h2>🧪 Current hands-on learning:</h2>
+<h2>🧪 Microsoft Entra ID lab portfolio:</h2>
 
-- Microsoft Entra ID identity administration and governance labs
-- Bulk user provisioning using CSV
-- Security groups and least-privilege access design
+**Completed labs**
+
+- ✅ [Lab 01 — Bulk User Provisioning Using CSV](https://github.com/Princenuel/Microsoft-Entra-Identity-Governance-Labs/tree/main/01-Bulk-User-Provisioning)
+- ✅ [Lab 02 — Security Groups, Least-Privilege Application Access & SAML SSO](https://github.com/Princenuel/Microsoft-Entra-Identity-Governance-Labs/tree/main/02-Security-Groups-and-Least-Privilege)
+
+[View the complete Microsoft Entra Identity Governance Labs repository](https://github.com/Princenuel/Microsoft-Entra-Identity-Governance-Labs)
+
+**Next areas of practice**
+
 - External identities (B2B guest users), access reviews, and offboarding
 - Authentication, Conditional Access, and identity protection (where licensing permits)
 - Microsoft Graph and PowerShell for identity administration
