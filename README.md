@@ -18,8 +18,8 @@ I work across IT administration, Microsoft cloud services, and cybersecurity. My
 
 **Completed labs**
 
-- ✅ [Lab 01 — Bulk User Provisioning Using CSV](https://github.com/Princenuel/Microsoft-Entra-Identity-Governance-Labs/tree/main/01-Bulk-User-Provisioning)
-- ✅ [Lab 02 — Security Groups, Least-Privilege Application Access & SAML SSO](https://github.com/Princenuel/Microsoft-Entra-Identity-Governance-Labs/tree/main/02-Security-Groups-and-Least-Privilege)
+- ✅ [Lab 01 — Bulk User Provisioning Using CSV](https://github.com/Princenuel/Microsoft-Entra-Identity-Governance-Labs/blob/main/01-Bulk-User-Provisioning/LAB-01-Bulk-User-Provisioning.md)
+- ✅ [Lab 02 — Security Groups, Least-Privilege Application Access & SAML SSO](https://github.com/Princenuel/Microsoft-Entra-Identity-Governance-Labs/blob/main/02-Security-Groups-and-Least-Privilege/LAB-02-Security-Groups-and-Least-Privilege.md)
 
 [View the complete Microsoft Entra Identity Governance Labs repository](https://github.com/Princenuel/Microsoft-Entra-Identity-Governance-Labs)
 
